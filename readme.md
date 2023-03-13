@@ -11,8 +11,5 @@ realizado y que se van a incorporar al repositorio remoto.
 
 De esta forma conseguimos añadir nuestro proyecto local a un repositorio remoto.
 # Reto 4 - Punto 3
-No se puede realizar el push, da un error debido a que los cambios de nuestro repositorio local (rama actual)
-están por detrás de los cambios del repositorio remoto. Esto se debe a que en el repositorio remoto existe la
-carpeta "reto_2" con las imágenes, mientras que en el respositorio local, al utilizar .gitignore, procesa como
-que esa carpeta no existe. Por ello, nos indica que antes de subir los cambios (push), obtengamos el estado del
-repositorio remoto en local (pull).
+Se han guardado todos los cambios del repositorio a excepción de los archivos y carpetas incluidos
+en el archivo .gitignore.
