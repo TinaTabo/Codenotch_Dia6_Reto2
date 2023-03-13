@@ -8,3 +8,5 @@ repositorio remoto. Podemos añadirlos uno por uno ```git add archivo1 archivo2 
 3. Con el comando ```git commit -m "comentario"``` añadimos un titulo descriptivo para los cambios que hemos
 realizado y que se van a incorporar al repositorio remoto.
 4. Utilizando el comando ```git push``` incorporamos todos los cambios al repositorio remoto.
+
+De esta forma conseguimos añadir nuestro proyecto local a un repositorio remoto.
