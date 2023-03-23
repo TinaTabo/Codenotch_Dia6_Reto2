@@ -1,4 +1,7 @@
-# Pasos para subir un proyecto a Git
+# Modulo1_Tema6_Retos
+Este repositorio contiene todos los retos (a excepción del reto 1 que se encuentra en el repositorio: https://github.com/TinaTabo/Modulo1_Tema6_Reto1) del Tema 6 - Modulo 1 del Bootcamp de Codenotch.
+
+## Pasos para subir un proyecto a Git
 Partimos de la situación en que tenemos creado un proyecto git, que bien ha sido creado en local (git init),
 o hemos obtenido de la nube (git clone). Realizamos las modificaciones necesarias, y llega el momento de añadir
 esas modificaciones a nuestro repositorio en la nube:
@@ -10,6 +13,6 @@ realizado y que se van a incorporar al repositorio remoto.
 4. Utilizando el comando ```git push``` incorporamos todos los cambios al repositorio remoto.
 
 De esta forma conseguimos añadir nuestro proyecto local a un repositorio remoto.
-# Reto 4 - Punto 3
+## Reto 4 - Punto 3
 Se han guardado todos los cambios del repositorio a excepción de los archivos y carpetas incluidos
 en el archivo .gitignore.
